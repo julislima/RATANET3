@@ -1,0 +1,29 @@
+.foto{
+   justify-content: center;
+   align-items: center;
+}
+
+.botao{
+   position: relative;
+   top: -200px;
+   z-index: 3;
+   margin-right: 85%;
+   border-radius: 20px;
+   background-color: white !important;
+   color: black !important;
+   white-space: nowrap !important;
+   transition: 0.3s;
+   font-size: 23px;
+   font-weight: bold;
+   padding: 5px 20px;
+}
+
+.botao:hover{
+   color: white !important;
+   background-color: black !important;
+}
+
+.anaila{
+   position: relative;
+   z-index: -1;
+}
